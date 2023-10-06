@@ -70,7 +70,7 @@ public class MatrixMultiplication {
        }
          else
         {
-        	System.out.println("The Matrix is not possible");
+        	System.out.println("The Matrix Multiplication is not possible");
         }
         
         }
