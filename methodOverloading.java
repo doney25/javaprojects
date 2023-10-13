@@ -1,3 +1,9 @@
+/* File 	  : methodOverloading.java
+ * Description    : Method Overloading using shapes
+ * Author	  : Doney Siby
+ * Version	  : 1.0
+ * Date		  : 13/10/2023
+ */
 package javalab;
 
 
@@ -7,13 +13,13 @@ public class methodOverloading {
 		public static void main(String [] args) {
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter the Base of the Triangle:");
-			int base=sc.nextInt();
+			float base=sc.nextFloat();
 			System.out.println("Enter the Height of the Triangle:");
-			int breadth=sc.nextInt();
+			float breadth=sc.nextFloat();
 			System.out.println("Enter the Width of the Rectangle");
-			float width=sc.nextFloat();
+			int width=sc.nextInt();
 			System.out.println("Enter the Height of the Rectangle");
-			float height=sc.nextFloat();
+			int height=sc.nextInt();
 			System.out.println("Enter the Radius of the Circle");
 			float radius=sc.nextFloat();
 			Shape shapes = new Shape();
@@ -25,11 +31,11 @@ public class methodOverloading {
 		}
 		class Shape {
 			int area;
-			public void area(int base, int breadth ) {
-				area=(base*breadth)/2;
-				System.out.println("The area of Triangle "+area);
+			public void area(float base, float breadth ) {
+				
+				System.out.println("The area of Triangle "+(base*breadth)/2);
 			}
-			public void area(float width, float height) 
+			public void area(int width, int height) 
 			{
 				 
 				System.out.println("The area of Rectangle "+height*width);
