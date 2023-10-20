@@ -1,3 +1,9 @@
+/* File 	  : Abstraction.java
+ * Description    : Abstraction of Class
+ * Author	  : Doney Siby
+ * Version	  : 1.0
+ * Date		  : 21/10/2023
+ */
 package javalab;
 public class Abstraction {
 	public static void main(String [] args) {
