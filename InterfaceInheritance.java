@@ -1,3 +1,9 @@
+/* File 	  : InterfaceInheritance.java
+ * Description    : Multiple Inheritance using Interface
+ * Author	  : Doney Siby
+ * Version	  : 1.0
+ * Date		  : 04/11/2023
+ */
 package javalab;
 
 public class InterfaceInheritance {
