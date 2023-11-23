@@ -1,8 +1,8 @@
 /*file			:	file Exception Handling.java
  * Author		:	Doney Siby
  * version		:	1.0
- * description	:	File Handling Exception
- * date			:	31/10/23
+ * description		:	File Handling Exception
+ * date			:	21/11/23
  */
 package animals;
 import java.io.FileWriter;
