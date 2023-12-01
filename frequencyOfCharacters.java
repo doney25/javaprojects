@@ -1,5 +1,5 @@
-/* File 	  : palindromeOrNot.java
- * Description: To check the frequency of String
+/* File 	  : FrequencyOfString.java
+ * Description	  : To check the frequency of String
  * Author	  : Doney Siby
  * Version	  : 1.0
  * Date		  : 29/09/2023
