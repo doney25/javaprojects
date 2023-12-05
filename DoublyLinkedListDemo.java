@@ -1,3 +1,9 @@
+/* File 	  : DoublyLinkedListDemo.java
+ * Description    : DoublyLinked List
+ * Author	  : Doney Siby
+ * Version	  : 1.0
+ * Date		  : 05/12/2023
+ */
 package javalabs;
 
 import java.util.LinkedList;
