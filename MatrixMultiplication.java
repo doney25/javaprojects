@@ -1,4 +1,4 @@
-/* File 	  : palindromeOrNot.java
+/* File 	  : MatrixMultiplication.java
  * Description: To Multiplle two matrixes
  * Author	  : Doney Siby
  * Version	  : 1.0
